@@ -14,3 +14,5 @@ Then, code will be executed in sequence:
 3. Scams recognition model based on Convolutional neural network (add PCA dimensionality reduction)
 4. Scams recognition model based on convolutional neural network (without adding PCA dimension reduction)
 CPU and memory consumption increase in turn
+## data set
+
