@@ -94,7 +94,9 @@ Nah I don't think he goes to usf, he lives around here though | 0
 2. **Based on traditional machine learning**:TF-IDF is used to extract the feature vector from each short message. A naive Bayes classifier is used to classify short message texts.
 3. **Convolutional neural network based**: The convolutional neural network is trained to process the feature vectors and find the appropriate parameters to complete the establishment of the model. (At the same time, PCA processing can reduce the dimension of the feature vector and greatly improve the speed, but the accuracy will be slightly decreased).
 
+
 ## Achieve effect
 <div align=center>
 <img width="607" alt="微信图片_20240620183756" src="https://github.com/Jason040114/SMS-text-classification-model/assets/125139348/29434e76-dc62-405a-8d04-2a2a29c37ec5">
 </div>
+
